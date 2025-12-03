@@ -14,18 +14,18 @@ const speakers = [
         notes: ""
     },
     {
-        photo: "https://i.pinimg.com/originals/3f/59/bd/3f59bddd185f8313a8babdf7bb107e8a.jpg",
+        photo: "gallery/8.jpg",
         name: "Дмитриев Вадим",
         position: "",
         tag: "Коммуникация",
         topic: "Построение связей и выстраивание коммуникации",
         bullets: [],
         quote: "",
-        ppt: "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FIOsjKjg%2Bc7Ec29sfPwJynAKdbp7zu8zLVhNWQ06bXRpqhah9gwc78YJtopSSQB3Lq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2FВадим%20Дмитриев.pptx&name=Вадим%20Дмитриев.pptx&nosw=1",
+        ppt: "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FgnNgJbSMsUvj2zxZinz2Qvp3wEq09EB4xJATk05R4ylmKy3FTiu7PZ7iwwQrL612q%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F28%2F1%20Вадим%20Дмитриев.pptx&name=1%20Вадим%20Дмитриев.pptx&nosw=1",
         notes: ""
     },
     {
-        photo: "https://i.pinimg.com/originals/3f/59/bd/3f59bddd185f8313a8babdf7bb107e8a.jpg",
+        photo: "gallery/0.jpg",
         name: "Зенина Анастасия",
         position: "",
         tag: "Актерское мастерство/Педагогика",
@@ -36,7 +36,7 @@ const speakers = [
         notes: ""
     },
     {
-        photo: "https://i.pinimg.com/originals/3f/59/bd/3f59bddd185f8313a8babdf7bb107e8a.jpg",
+        photo: "gallery/7.jpg",
         name: "Зенин Илья",
         position: "",
         tag: "Проекты/Партнерство",
@@ -47,7 +47,7 @@ const speakers = [
         notes: ""
     },
     {
-        photo: "https://i.pinimg.com/originals/3f/59/bd/3f59bddd185f8313a8babdf7bb107e8a.jpg",
+        photo: "gallery/11.jpg",
         name: "Кузьменко Анна",
         position: "",
         tag: "Проектирование/Business Model Canvas",
@@ -57,19 +57,20 @@ const speakers = [
         ppt: "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FIOsjKjg%2Bc7Ec29sfPwJynAKdbp7zu8zLVhNWQ06bXRpqhah9gwc78YJtopSSQB3Lq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2FАнна%20Кузьменко.pptx&name=Анна%20Кузьменко.pptx&nosw=1",
         notes: ""
     },
+    ,
     {
-        photo: "https://i.pinimg.com/originals/3f/59/bd/3f59bddd185f8313a8babdf7bb107e8a.jpg",
+        photo: "gallery/9.jpg",
         name: "Завалина Анна",
         position: "",
-        tag: "Экскурсия/Миссия",
+        tag: "Воспитание/Сообщество",
         topic: "Педагогическая экскурсия - пленэр «В поисках миссии педагога»",
         bullets: [],
         quote: "",
-        ppt: "",
+        ppt: "https://disk.yandex.ru/d/f9pv7TqU7id6Xw",
         notes: ""
     },
     {
-        photo: "https://i.pinimg.com/originals/3f/59/bd/3f59bddd185f8313a8babdf7bb107e8a.jpg",
+        photo: "gallery/10.jpg",
         name: "Демехина Алла",
         position: "",
         tag: "Ресурс/Благополучие",
@@ -80,25 +81,14 @@ const speakers = [
         notes: ""
     },
     {
-        photo: "https://i.pinimg.com/originals/3f/59/bd/3f59bddd185f8313a8babdf7bb107e8a.jpg",
+        photo: "gallery/00.jpg",
         name: "Дремов Николай",
         position: "",
         tag: "Аргументация",
         topic: "«Педагогическая аргументация»",
         bullets: [],
         quote: "",
-        ppt: "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FIOsjKjg%2Bc7Ec29sfPwJynAKdbp7zu8zLVhNWQ06bXRpqhah9gwc78YJtopSSQB3Lq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2FДремов_Н_С_Педагогическая_аргументация_pptx.pdf&name=Дремов_Н_С_Педагогическая_аргументация_pptx.pdf&nosw=1",
-        notes: ""
-    },
-    {
-        photo: "gallery/2.jpg",
-        name: "Ляшко Олег",
-        position: "",
-        tag: "Машук/Наставничество",
-        topic: "Эффект Машука: Учим тех, кто учит",
-        bullets: [],
-        quote: "",
-        ppt: "",
+        ppt: "https://sun1-27.userapi.com/s/v1/ig2/qiBqkHueju9kp_GYxFtz0VZEJ8YQ8v8SLCcYpdl9UlRSVBvlyEVNdDcOWcC3Tp8mAdwaisgnVUQAPlgPiRiiMS05.jpg?size=400x557&quality=95&crop=236,208,1445,2015&ava=1",
         notes: ""
     },
     {
@@ -109,7 +99,7 @@ const speakers = [
         topic: "«Метавселенная образования: виртуальное креативное пространство для учебного процесса»",
         bullets: [],
         quote: "",
-        ppt: "",
+        ppt: "https://disk.yandex.ru/i/OB8oKELj65E3mA",
         notes: ""
     },
     {
@@ -120,7 +110,7 @@ const speakers = [
         topic: "«Профессиональные сообщества как новый вид педагогической культуры»",
         bullets: [],
         quote: "",
-        ppt: "",
+        ppt: "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FgnNgJbSMsUvj2zxZinz2Qvp3wEq09EB4xJATk05R4ylmKy3FTiu7PZ7iwwQrL612q%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F29%2FМАШУК%2029.11.2025%20Профессион.сообщества%20как%20новый%20вид%20педаг.культуры%20.pdf&name=МАШУК%2029.11.2025%20Профессион.сообщества%20как%20новый%20вид%20педаг.культуры%20.pdf&nosw=1",
         notes: ""
     },
     {
@@ -131,7 +121,7 @@ const speakers = [
         topic: "«Обучение вне шаблона: как «ледоколы», игры и другие приёмы меняют школьную реальность»",
         bullets: [],
         quote: "",
-        ppt: "",
+        ppt: "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FgnNgJbSMsUvj2zxZinz2Qvp3wEq09EB4xJATk05R4ylmKy3FTiu7PZ7iwwQrL612q%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F29%2FПросвещение%20_Машук.pptx&name=Просвещение%20_Машук.pptx&nosw=1",
         notes: ""
     }
 ];
