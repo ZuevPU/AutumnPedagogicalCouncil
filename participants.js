@@ -8,7 +8,7 @@ const practices = [
     tag: "Работа с родителями",
     topic: "Родительский диалог на новый лад: искусство нестандартных собраний",
     bullets: [],
-    ppt: "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FAAaNLjCaxToCt5fJwuo16UuVbDj%2B0LwYinoOwpHIXKrkj%2F73c%2BiAsIBlfc%2FZ20twq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F112%20ауд.%20АЛЕКСЕЕЕВА.pptx&name=112%20ауд.%20АЛЕКСЕЕЕВА.pptx&nosw=1",
+    ppt: "https://disk.yandex.ru/i/LBwoP2PpNfs26w",
   },
   {
     name: "Белозёрова Виктория",
@@ -16,7 +16,7 @@ const practices = [
     tag: "Методика",
     topic: "«Ключ к Машуку»: создание разворота лепбука, листа инфографики, квеста, игры и видеоролика",
     bullets: [],
-    ppt: "https://disk.yandex.ru/d/0nYYo2GP2mWcnw/202%20ауд.%20Белозёрова",
+    ppt: "https://disk.yandex.ru/d/YI5azkWM8tTxWg",
   },
   {
     name: "Валивахина Вероника",
@@ -24,7 +24,7 @@ const practices = [
     tag: "Краеведение",
     topic: "Культурный код города: школьный музей как пространство идей, исследований и открытий",
     bullets: [],
-    ppt: "https://disk.yandex.ru/d/0nYYo2GP2mWcnw/204%20ауд.%20Валивахина",
+    ppt: "https://disk.yandex.ru/d/HsTs06DZVu4lJg",
   },
   {
     name: "Долженкова Светлана",
@@ -32,7 +32,7 @@ const practices = [
     tag: "Дистанционное обучение",
     topic: "Педагог-дизайнер: конструирование современной образовательной среды на дистанте",
     bullets: [],
-    ppt: "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FAAaNLjCaxToCt5fJwuo16UuVbDj%2B0LwYinoOwpHIXKrkj%2F73c%2BiAsIBlfc%2FZ20twq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2FКонференц-зал_Долженкова_Осенний_ПедСовет_2025.pptx.pdf&name=Конференц-зал_Долженкова_Осенний_ПедСовет_2025.pptx.pdf&nosw=1",
+    ppt: "https://disk.yandex.ru/i/ziAvjA_lR0lb6A",
   },
   {
     name: "Еликова Ольга",
@@ -40,7 +40,7 @@ const practices = [
     tag: "Цифровые технологии",
     topic: "Блог педагога и школьный паблик: пошаговая инструкция (от оформления до создания видеоконтента)",
     bullets: [],
-    ppt: "https://disk.yandex.ru/d/0nYYo2GP2mWcnw/Читальный%20зал_Еликова",
+    ppt: "https://disk.yandex.ru/d/nDmYDT9W3D_awA",
   },
   {
     name: "Зобова Юлия",
@@ -48,7 +48,7 @@ const practices = [
     tag: "Психология",
     topic: "Собираем образ будущего: нейрографика как инструмент коллективного творчества",
     bullets: [],
-    ppt: "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FAAaNLjCaxToCt5fJwuo16UuVbDj%2B0LwYinoOwpHIXKrkj%2F73c%2BiAsIBlfc%2FZ20twq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2FХолл%202%20этажа_Зобова.pptx&name=Холл%202%20этажа_Зобова.pptx&nosw=1",
+    ppt: "https://disk.yandex.ru/i/Ahf3UYrvmKoXzg",
   },
   {
     name: "Крикунова Елена",
@@ -56,7 +56,7 @@ const practices = [
     tag: "Цифровые технологии",
     topic: "Цифровой наставник как инструмент формирования поддерживающей образовательной среды: от идеи – к созданию собственного чат-бота в организации",
     bullets: [],
-    ppt: "https://disk.yandex.ru/d/0nYYo2GP2mWcnw/216%20ауд.%20Крикунова",
+    ppt: "https://disk.yandex.ru/d/H7-yXXibWL8lKg",
   },
   {
     name: "Мотуз Ирина",
@@ -64,7 +64,7 @@ const practices = [
     tag: "Организация мероприятий",
     topic: "Формула успешного события «Событие³» – мастер-класс",
     bullets: [],
-    ppt: "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FAAaNLjCaxToCt5fJwuo16UuVbDj%2B0LwYinoOwpHIXKrkj%2F73c%2BiAsIBlfc%2FZ20twq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F214%20ауд.%20Мотуз.pptx&name=214%20ауд.%20Мотуз.pptx&nosw=1",
+    ppt: "https://disk.yandex.ru/i/xv9Hwnah1Ajr4Q",
   },
   {
     name: "Сайферт Ирина",
@@ -72,7 +72,7 @@ const practices = [
     tag: "Командообразование",
     topic: "«5 островков неэффективности: практикум по построению сильных команд»",
     bullets: [],
-    ppt: "https://disk.yandex.ru/d/0nYYo2GP2mWcnw/304%20ауд.%20Сайферт",
+    ppt: "https://disk.yandex.ru/d/kOz3CHeNSv2TvQ",
   },
   {
     name: "Шивырталова Елена",
@@ -80,7 +80,7 @@ const practices = [
     tag: "Профессиональное развитие",
     topic: "Мастер-класс «Пакет ПРОФИ активирован»",
     bullets: [],
-    ppt: "https://disk.yandex.ru/d/0nYYo2GP2mWcnw/314%20ауд.%20Шивырталова",
+    ppt: "https://disk.yandex.ru/d/U8OQ4fbGgoMNgw",
   },
   {
     name: "Шульженко Анастасия",
@@ -88,7 +88,7 @@ const practices = [
     tag: "Методика",
     topic: "Игровая педагогика междисциплинарных уроков: создание рабочего листа для развития когнитивных способностей учащихся",
     bullets: [],
-    ppt: "https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FAAaNLjCaxToCt5fJwuo16UuVbDj%2B0LwYinoOwpHIXKrkj%2F73c%2BiAsIBlfc%2FZ20twq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2Fхолл%203%20этажа_Шульженко.pdf&name=холл%203%20этажа_Шульженко.pdf&nosw=1",
+    ppt: "https://disk.yandex.ru/i/IFtXi09KToQOUw",
   },
   {
     name: "Ямилов Юрий",
@@ -96,6 +96,6 @@ const practices = [
     tag: "Мотивация",
     topic: "Мотивация – залог успеха!",
     bullets: [],
-    ppt: "https://disk.yandex.ru/d/0nYYo2GP2mWcnw/316%20ауд_Ямилов%20Юрий%20Юрьевич",
+    ppt: "https://disk.yandex.ru/d/J4e6P-baQYrsSQ",
   }
 ];
